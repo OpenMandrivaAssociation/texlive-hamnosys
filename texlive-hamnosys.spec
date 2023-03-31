@@ -1,6 +1,6 @@
 Name:		texlive-hamnosys
 Version:	61941
-Release:	1
+Release:	2
 Summary:	A font for sign languages
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hamnosys
